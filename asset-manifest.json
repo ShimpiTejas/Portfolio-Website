@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.117d3df7.css",
+    "main.js": "/static/js/main.4d1cb28c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/sapiens1.png": "/static/media/sapiens1.288bd787abca3a33b213.png",
+    "static/media/sapiens2.png": "/static/media/sapiens2.c3eafd3df481b3606a69.png",
+    "static/media/TejasShimpi.pdf": "/static/media/TejasShimpi.53bcbcc526e5f2b11b37.pdf",
+    "static/media/logo.jpg": "/static/media/logo.7ddccc4ff2337f14e0c7.jpg",
+    "index.html": "/index.html",
+    "main.117d3df7.css.map": "/static/css/main.117d3df7.css.map",
+    "main.4d1cb28c.js.map": "/static/js/main.4d1cb28c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.117d3df7.css",
+    "static/js/main.4d1cb28c.js"
+  ]
+}
